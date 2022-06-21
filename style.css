@@ -5,3 +5,17 @@ hr {
 p {
     margin:0;
 }
+
+.wrapper h1 {
+    font-family: sans-serif;
+    color: white;
+    margin: auto;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.wrapper hr{
+    border: 5px solid #007ACC;
+    background-color: #007ACC;
+}
+
