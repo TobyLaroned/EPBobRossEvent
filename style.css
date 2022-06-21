@@ -19,3 +19,18 @@ p {
     background-color: #007ACC;
 }
 
+.menu a{
+    font-family: sans-serif;
+    color: white;
+    font-size: 15px;
+    margin-right: 25px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.menu {
+    background-color: #202124;
+    width: 280px;
+    padding: 20px;
+}
+
